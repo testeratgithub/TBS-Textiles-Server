@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "None",
+  "main": "index.js",
+  "scripts": {
+    "test": "'Change later'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "'add later'"
+  },
+  "keywords": [
+    "'add",
+    "later'"
+  ],
+  "author": "'Nithishkumar'",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
