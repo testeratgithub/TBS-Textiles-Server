@@ -4,7 +4,8 @@
   "description": "None",
   "main": "index.js",
   "scripts": {
-    "test": "'Change later'"
+    "test": "'Change later'",
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,8 @@
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^3.0.2"
+  },
+  "dependencies": {
+    "pg": "^8.11.3"
   }
 }
